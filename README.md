@@ -1,2 +1,2 @@
 # Concentration
-Concentration game for Beta Lab using MVC Architecture
+Concentration game using MVC Architecture
