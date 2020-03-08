@@ -1,2 +1,2 @@
 # Concentration
-Concentration game using MVC Architecture
+Concentration and memory card iOS game creating using MVC Architecture.
